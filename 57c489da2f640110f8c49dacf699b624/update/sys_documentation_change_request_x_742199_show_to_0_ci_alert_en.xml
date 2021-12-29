@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_742199_show_to_0_ci_alert" label="CI Alert" language="en" table="change_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_742199_show_to_0_ci_alert</element>
+            <help/>
+            <hint/>
+            <label>CI Alert</label>
+            <language>en</language>
+            <name>change_request</name>
+            <plural>CI Alerts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-23 10:34:29</sys_created_on>
+            <sys_id>31ee33962f200110f8c49dacf699b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CI Alert</sys_name>
+            <sys_package display_value="Show total active requests for selected Category" source="x_742199_show_to_0">57c489da2f640110f8c49dacf699b624</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Show total active requests for selected Category">57c489da2f640110f8c49dacf699b624</sys_scope>
+            <sys_update_name>sys_documentation_change_request_x_742199_show_to_0_ci_alert_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-23 10:34:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Change Request" max_length="40" name="change_request" sizeclass="105" text_index="true" type="collection">
+        <element label="Active request of the same CI class" max_length="40" name="x_742199_show_to_0_active_request_of_the_same_ci_class" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="CI Alert" max_length="100" name="x_742199_show_to_0_ci_alert" type="string"/>
+    </element>
+</database>
